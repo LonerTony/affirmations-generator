@@ -84,4 +84,15 @@ exit_button = tk.Button(root, text="Exit", font=("Helvetica", 14),
                         bg=ACCENT_COLOR, fg=SECONDARY_COLOR, command=root.destroy)
 exit_button.pack(pady=10)
 
+# Adding a clock display
+clock_label = tk.Label(root, font=('Helvetica', 14), fg=SECONDARY_COLOR, bg=PRIMARY_COLOR)
+clock_label.pack(pady=10)
+
+def update_clock():
+    now = datetime.now().strftime("%H:%M:%S")
+    clock_label.config(text=now)
+    root.after(1000, update_clock)  # update the time every second (1000 milliseconds)
+
+update_clock()  # initial call to display the clock
+
 root.mainloop()
