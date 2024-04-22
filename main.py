@@ -94,7 +94,7 @@ new_affirmation_button.pack(pady=0)
 
 # Create the thoughts label
 thoughts_label = tk.Label(root,
-                          text="Enter your thoughts about this affirmation:",
+                          text="Enter your thoughts about these affirmations:",
                           font=("Helvetica", 12),
                           bg=PRIMARY_COLOR,
                           fg=SECONDARY_COLOR)
