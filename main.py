@@ -5,8 +5,8 @@ from datetime import datetime
 from PIL import Image, ImageTk
 
 # Window size and position
-WINDOW_WIDTH = 500
-WINDOW_HEIGHT = 500
+WINDOW_WIDTH = 800
+WINDOW_HEIGHT = 800
 WINDOW_X_POS = 100
 WINDOW_Y_POS = 100
 
