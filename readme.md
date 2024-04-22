@@ -32,3 +32,4 @@ The code is documented using docstrings to provide details on each function's pa
 
 
 
+Integrating affirmations into technology can help users shift their perspective and focus on the good in their lives especially in an environment connected to the internet where content isn’t entirely regulated. 
