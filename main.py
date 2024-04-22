@@ -22,7 +22,7 @@ root.geometry(f"{WINDOW_WIDTH}x{WINDOW_HEIGHT}+{WINDOW_X_POS}+{WINDOW_Y_POS}")
 root.config(bg=PRIMARY_COLOR)
 
 # Canvas for lotus logo
-canvas = tk.Canvas(root, width=100, height=100, bg=PRIMARY_COLOR)
+canvas = tk.Canvas(root, width=110, height=110, bg=PRIMARY_COLOR)
 canvas.pack(side=tk.TOP, pady=20)
 
 # Load the lotus.png image
