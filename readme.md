@@ -32,4 +32,4 @@ The code is documented using docstrings to provide details on each function's pa
 
 
 
-Integrating affirmations into technology can help users shift their perspective and focus on the good in their lives especially in an environment connected to the internet where content isn’t entirely regulated. 
+Integrating affirmations into technology can help users shift their perspective and focus on the good in their lives especially in an environment connected to the internet where content isn’t entirely regulated. The primary users of this app would be individuals seeking to improve their mental health and daily well-being. This group could include professionals dealing with workplace stress, students facing academic pressures, or anyone navigating personal challenges. The universal appeal of positive affirmations means that the app could benefit a wide demographic, irrespective of age, occupation, or cultural background.
