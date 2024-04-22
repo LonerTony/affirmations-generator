@@ -10,11 +10,11 @@
 
 
 # Sprint 2
-- [ ] Begin writing code
-- [ ] Commit 6 code changes (significant size, detailed comments)
-  - [ ] Change 1
-  - [ ] Change 2
-  - [ ] Change 4
-  - [ ] Change 4
-  - [ ] Change 6
+- [x ] Begin writing code
+- [x ] Commit 6 code changes (significant size, detailed comments)
+  - [x ] Change 1
+  - [x ] Change 2
+  - [x ] Change 3
+  - [x ] Change 4
+  - [x ] Change 6
 - [ ] Progress tracked on Project Roadmap
