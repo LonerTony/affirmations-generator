@@ -78,7 +78,7 @@ def save_thoughts():
 save_button = tk.Button(root, text="Save Thoughts", font=("Helvetica", 14),
                         bg=ACCENT_COLOR, fg=SECONDARY_COLOR, command=save_thoughts)
 save_button.pack(pady=10)
-
+# attempting to add another button to auto generate affrimations on a timely basis // btn = Button(root, text = 'Click me !', bd = '5',command = root.destroy) 
 # Adding an Exit button
 exit_button = tk.Button(root, text="Exit", font=("Helvetica", 14),
                         bg=ACCENT_COLOR, fg=SECONDARY_COLOR, command=root.destroy)
